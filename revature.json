@@ -1,0 +1,15 @@
+{
+  "type": "python",
+  "testFiles": [
+    {
+      "path": "tests/lab_test.py",
+      "testCases": [
+        {
+          "methodName": "test_activity_inner_join1",
+          "label": "Verify INNER JOIN of class and student",
+          "description": "Runs problem1(), which should return the id and name of each student in Ms. Lovelace's classes using an INNER JOIN."
+        }
+      ]
+    }
+  ]
+}
